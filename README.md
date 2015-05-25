@@ -2,7 +2,7 @@
 MIPS multi-function second program
 
 CS 264: Computer Organization and Assembly Programming<br>
-Lab 2
+Lab 3 (Part 1)
 
 Functions
 ---------
