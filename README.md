@@ -6,8 +6,8 @@ Lab 2
 
 Functions
 ---------
-- Area of a Circle
-- Circumference of a Circle
-- Area of a Rectangle
-- Perimeter of Rectangle
+- Area of a Circle: takes user input for radius as a float and outputs area
+- Circumference of a Circle: takes user input for radius as a float and outputs circumference
+- Area of a Rectangle: takes user input for length and width as a double and outputs area
+- Perimeter of Rectangle: takes user input for length and width as a double and outputs area
 - Exit
